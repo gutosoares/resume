@@ -9,7 +9,7 @@
 **Github:** [gutosoares](https://github.com/gutosoares)
 
 ## Sobre mim
-Atualmente estou cursando [Sistemas de Informaçao](http://www.bsi.ufla.br) na [Universidade Federal de Lavras](http://ufla.br) e procuro aprender cada vez mais sobre desenvolvimento web. No momento estou trabalho com as linguagens PHP, HTML5, CSS3 e JavaScript.
+Atualmente é graduando em [Sistemas de Informação](http://www.bsi.ufla.br) pela [Universidade Federal de Lavras] (http://ufla.br). É estagiário no Centro de Inteligência em Mercados (CIM), atuando no desenvolvimento de sistemas web nas linguagens: HTML, CSS, PHP e Java. Participa de dois projetos de iniciação científica voluntária (PIVIC) cujo objetivo é o desenvolvimento de aplicativos web voltados para a área de Irrigação e Drenagem.
 
 ## Habilidades
 * JavaScript
@@ -18,7 +18,6 @@ Atualmente estou cursando [Sistemas de Informaçao](http://www.bsi.ufla.br) na [
 * CSS3
 * PHP
 * MySQL
-* OpenCart
 * SEO
 * Google Analytics
 
