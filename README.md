@@ -37,4 +37,5 @@ Atualmente é graduando em [Sistemas de Informação](http://www.bsi.ufla.br) pe
 * SQL Completo - Softblue
 
 ## Extra
-* Integrante do núcle de estudo em soluções web [UFLA-Moz](https://github.com/ufla-moz)
+* Integrante do núcleo de estudo em soluções web [UFLA-Moz](https://github.com/ufla-moz)
+* Aluno de Iniciação Científica Voluntária (PIVIC) no desenvolvimento de aplicativos web para a área de Irrigação e Drenagem
