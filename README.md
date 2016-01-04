@@ -23,7 +23,7 @@ Atualmente é graduando em [Sistemas de Informação](http://www.bsi.ufla.br) pe
 
 ## Formação Acadêmica
 
-**Aluno de Iniciação Científica Voluntária (PIVIC) no desenvolvimento de aplicativos web para a área de Irrigação e Drenagem
+**Aluno de Iniciação Científica Voluntária (PIVIC)** no desenvolvimento de aplicativos web para a área de Irrigação e Drenagem
 
 **Sistema de Informação - Universidade Federal de Lavras** - Março 2012/1 - Presente
 
