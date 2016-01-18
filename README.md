@@ -30,10 +30,10 @@ Atualmente é graduando em [Sistemas de Informação](http://www.bsi.ufla.br) pe
 **Química - Universidade Federal de Lavras** - Agosto 2011/2 - Março 2012/1 (Trancado)
 
 ## Experência Profissional
-**Densenvolvedor Back End** - InovaCafé -  Fevereiro 2015 - Atualmente
-> Desenvolvimento do SIGES, Sistema Integrado de Gestão de Safras. Com foco em PHP, MySQL e geração de relatórios diversos. 
+**Desenvolvedor Back End** - InovaCafé -  Fevereiro 2015 - Atualmente
+> Desenvolvimento do SIGES, Sistema Integrado de Gestão de Safras. Com foco em PHP, MySQL e geração de relatórios diversos.
 
-**Densenvolvedor Front End** - InovaCafé - Fevereiro 2015 - Atualmente
+**Desenvolvedor Front End** - InovaCafé - Fevereiro 2015 - Atualmente
 > Desenvolvimento de sites utilizando HTML, CSS e JS para o front-end e PHP/MySQL para o backend.
 
 **Iniciação Científica** - UFLA - Março 2015 - Atualmente
